@@ -1,19 +1,5 @@
-## Getting Started
+## Gerador de Senhas Aleatórias
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este código Java é uma aplicação simples que gera senhas aleatórias com base nas preferências do usuário. A aplicação utiliza um conjunto de caracteres permitidos, permitindo ao usuário especificar o comprimento da senha desejada e quais tipos de caracteres devem ser incluídos (letras minúsculas, números e caracteres especiais).
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Password-Generator-Java
